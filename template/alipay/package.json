@@ -1,0 +1,20 @@
+{
+  "name": "applet",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "applet-script dev",
+    "build": "applet-script build",
+    "eslint-fix": "applet-script eslint-fix",
+    "stylelint-fix": "applet-script stylelint-fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "applet-script": "^1.0.0"
+  },
+  "dependencies": {
+    "mini-ali-ui": "^1.3.7"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "lib": [
+      "ESNext",
+      "dom"
+    ],
+    "allowJs": false,
+    "strict": false,
+    "esModuleInterop": true,
+    "types": [
+      "./typings",
+    ],
+    "baseUrl": "./src"
+  },
+  "include": [
+    "./**/*.ts"
+  ]
+}

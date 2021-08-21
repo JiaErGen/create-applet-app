@@ -1,0 +1,31 @@
+{
+  "name": "create-applet-app",
+  "version": "1.0.0",
+  "description": "create-applet-app 支付宝小程序脚手架，支持ts es2021 less等",
+  "main": "./bin/create-applet-app",
+  "bin": {
+    "create-applet-app": "./bin/create-applet-app"
+  },
+  "keywords": [
+    "小程序",
+    "小程序编译",
+    "小程序脚手架",
+    "min-app",
+    "applet",
+    "create-applet-app"
+  ],
+  "scripts": {},
+  "author": "chenlinboss",
+  "homepage": "https://github.com/chenlinboss/create-applet-app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chenlinboss/create-applet-app"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "commander": "^2.20.3",
+    "cross-spawn": "^7.0.3",
+    "fs-extra": "^10.0.0"
+  }
+}

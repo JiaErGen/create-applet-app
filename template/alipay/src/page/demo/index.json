@@ -1,0 +1,8 @@
+{
+  "defaultTitle": "demo",
+  "titleBarColor": "#262833",
+  "allowsBounceVertical": "NO",
+  "transparentTitle": "none",
+  "usingComponents": {
+  }
+}
