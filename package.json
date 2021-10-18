@@ -1,6 +1,6 @@
 {
   "name": "create-applet-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "create-applet-app 支付宝小程序脚手架，支持ts es2021 less等",
   "main": "./bin/create-applet-app",
   "bin": {
